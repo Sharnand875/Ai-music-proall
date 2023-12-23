@@ -1,0 +1,30 @@
+.heading {
+    font-size: 40px;
+    width: 100%;
+    margin: 0px;
+    background-color:rgb(255, 255, 255);
+    color: black;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+
+.Note{
+    font-size: 20px;
+    color: black;
+}
+
+
+.song_name_Header{
+    font-size: 25px;
+    color: rgb(0, 0, 0);
+    font: 20px;
+    background-color: #fff48a;
+    width: 160px;
+    border-radius: 20%;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+
+body{
+    background-size: cover;
+}
